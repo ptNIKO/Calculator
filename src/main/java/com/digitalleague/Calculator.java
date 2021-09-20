@@ -1,4 +1,6 @@
-package main.java.com.digitalleague;
+package com.digitalleague;
+
+import com.digitalleague.Validator;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
